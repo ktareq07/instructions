@@ -1,9 +1,16 @@
 # instructions
 
-### SSH KEY-GEN INSTRUCTIONS:
+# MOCK:
 
-* Run: ssh-keygen
-* Run: cat ~/.ssh/id_rsa.pub
-* Github Settings - SSH - Add New Key - Done
+* Change something in MOCK.
+* Run - docker ps
+* Stop MOCK
+* sudo chmod 777 target
+* MVN CLEAN INSTALL
+* DOCKER COMPOSE -> RUN
 
 -------------------------------------------------------------------------
+# SIT:
+
+* 
+* 
